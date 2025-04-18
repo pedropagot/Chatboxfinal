@@ -1,1 +1,1 @@
-web: python chatbot_fluxo_twilio_corrigido_v2
+web: python chatbot_fluxo_twilio_corrigido_v2.py
